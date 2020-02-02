@@ -11,11 +11,13 @@ A rendering of a contemporary kitchen implementing the illusion of depth via Mat
  - I have used some libraries.
     - https://pub.dev/packages/intl
       for obtaining time formatted according to our locale
+    - https://pub.dev/packages/vector_math
+      to make some calculations
  
  - All icons included in this project are made by [Freepik](https://www.freepik.com/). They have been obtained from www.flaticon.com
 
 ## Licensing
-* Code licensed under [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.txt)
+* Code [licensed](./LICENSE) under [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.txt)
 * Icons made by Freepik from www.flaticon.com
   Icons licensed under Free license (with attribution)
     - [Flaticon license](./flaticon_license.pdf)
